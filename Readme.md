@@ -8,7 +8,7 @@ The code generates the following results:
 
 ### Original Image
 
-![Original Image](./assets/dog.webp)
+![Original Image](./assets/dog.jpg)
 
 ### Noise
 
